@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 07
 The starter code for lab 07.
 
@@ -30,3 +31,21 @@ Of course, you can always ask the TA for help!  However, learning how to find th
 
 ## How to Submit
 Create your flutter project inside this folder, commit, and then push your code to this repository to submit your lab assignment.
+=======
+# lab7
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 4c7c15e (done)
